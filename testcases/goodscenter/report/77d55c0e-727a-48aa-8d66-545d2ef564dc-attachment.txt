@@ -1,0 +1,6 @@
+[2022-07-30 12:45:59,347][mysql_util.py 29][INFO]: 执行sql：select count(1) as banner_num from goods_banner;
+[2022-07-30 12:45:59,390][mysql_util.py 33][INFO]: sql执行结果：{'banner_num': 3}
+[2022-07-30 12:45:59,392][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/banners/
+[2022-07-30 12:45:59,392][rest_client.py 51][INFO]: 接口请求的方法>>>GET
+[2022-07-30 12:45:59,442][response_util.py 10][INFO]: 接口的返回内容>>>：[{"id": 23, "image": "http://admin.5istudy.online/media/banner/banner3.jpg", "index": 1, "add_time": "2021-11-26T13:22:00", "goods": 4}, {"id": 30, "image": "http://admin.5istudy.online/media/banner/banner2.jpg", "index": 3, "add_time": "2021-11-26T13:22:00", "goods": 4}, {"id": 1820, "image": "http://admin.5istudy.online/media/banner/banner1.jpg", "index": 3, "add_time": "2021-11-26T13:22:00", "goods": 4}]
+[2022-07-30 12:45:59,442][response_util.py 15][INFO]: 接口的返回内容>>>：[{"id": 23, "image": "http://admin.5istudy.online/media/banner/banner3.jpg", "index": 1, "add_time": "2021-11-26T13:22:00", "goods": 4}, {"id": 30, "image": "http://admin.5istudy.online/media/banner/banner2.jpg", "index": 3, "add_time": "2021-11-26T13:22:00", "goods": 4}, {"id": 1820, "image": "http://admin.5istudy.online/media/banner/banner1.jpg", "index": 3, "add_time": "2021-11-26T13:22:00", "goods": 4}]

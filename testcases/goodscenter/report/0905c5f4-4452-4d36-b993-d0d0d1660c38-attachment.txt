@@ -1,0 +1,2 @@
+INFO     log:rest_client.py:50 接口请求的地址>>>http://admin.5istudy.online/banners/
+INFO     log:rest_client.py:51 接口请求的方法>>>GET

@@ -1,0 +1,24 @@
+INFO     log:rest_client.py:50 接口请求的地址>>>http://admin.5istudy.online/code/
+INFO     log:rest_client.py:51 接口请求的方法>>>POST
+INFO     log:rest_client.py:55 接口请求的json参数>>>
+{
+  "mobile": 17380900323
+}
+INFO     log:response_util.py:10 接口的返回内容>>>：{"mobile": "17380900323"}
+INFO     log:response_util.py:15 接口的返回内容>>>：{"mobile": "17380900323"}
+INFO     log:mysql_util.py:29 执行sql：select code from users_verifycode where mobile = '17380900323' order by id desc limit 1
+INFO     log:mysql_util.py:33 sql执行结果：{'code': '5240'}
+INFO     log:conftest.py:8 sql执行结果：{'code': '5240'}
+INFO     log:mysql_util.py:29 执行sql：select code from users_verifycode where mobile = '17380900323' order by id desc limit 1
+INFO     log:mysql_util.py:33 sql执行结果：{'code': '5240'}
+INFO     log:conftest.py:8 sql执行结果：{'code': '5240'}
+INFO     log:rest_client.py:50 接口请求的地址>>>http://admin.5istudy.online/users/
+INFO     log:rest_client.py:51 接口请求的方法>>>POST
+INFO     log:rest_client.py:55 接口请求的json参数>>>
+{
+  "code": "5240",
+  "password": "123456",
+  "username": "17380900323"
+}
+INFO     log:response_util.py:10 接口的返回内容>>>：{"username": "17380900323", "mobile": "17380900323", "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNjQsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk2NzYzMDEsImVtYWlsIjpudWxsfQ.yrHv8n6Y91gZxpHSVxthsKRwHKNYyd_1XSgfYQ1-0m8", "name": "17380900323"}
+INFO     log:response_util.py:15 接口的返回内容>>>：{"username": "17380900323", "mobile": "17380900323", "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNjQsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk2NzYzMDEsImVtYWlsIjpudWxsfQ.yrHv8n6Y91gZxpHSVxthsKRwHKNYyd_1XSgfYQ1-0m8", "name": "17380900323"}

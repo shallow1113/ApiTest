@@ -1,0 +1,14 @@
+[2022-07-29 11:59:43,245][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/code/
+[2022-07-29 11:59:43,245][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-29 11:59:43,245][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 17380900323
+}
+[2022-07-29 11:59:43,714][response_util.py 10][INFO]: 接口的返回内容>>>：{"mobile": "17380900323"}
+[2022-07-29 11:59:43,714][response_util.py 15][INFO]: 接口的返回内容>>>：{"mobile": "17380900323"}
+[2022-07-29 11:59:43,714][mysql_util.py 29][INFO]: 执行sql：select code from users_verifycode where mobile = '17380900323' order by id desc limit 1
+[2022-07-29 11:59:43,724][mysql_util.py 33][INFO]: sql执行结果：{'code': '7303'}
+[2022-07-29 11:59:43,724][conftest.py 9][INFO]: sql执行结果：{'code': '7303'}
+[2022-07-29 11:59:43,724][mysql_util.py 29][INFO]: 执行sql：select code from users_verifycode where mobile = '17380900323' order by id desc limit 1
+[2022-07-29 11:59:43,734][mysql_util.py 33][INFO]: sql执行结果：{'code': '7303'}
+[2022-07-29 11:59:43,734][conftest.py 9][INFO]: sql执行结果：{'code': '7303'}

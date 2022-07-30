@@ -1,0 +1,10 @@
+[2022-07-30 13:11:57,163][mysql_util.py 47][INFO]: 执行sql：delete from users_verifycode where mobile = '17380900323';
+[2022-07-30 13:11:57,193][conftest.py 20][INFO]: sql执行结果：None
+[2022-07-30 13:11:57,193][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/code/
+[2022-07-30 13:11:57,193][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:11:57,194][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 17380900323
+}
+[2022-07-30 13:11:57,250][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2022-07-30 13:11:57,250][response_util.py 15][INFO]: 接口的返回内容>>>：{"mobile": ["用户已经存在"]}

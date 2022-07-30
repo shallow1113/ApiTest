@@ -1,0 +1,292 @@
+[2022-07-30 12:33:03,688][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/login/
+[2022-07-30 12:33:03,688][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 12:33:03,688][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "username": 17380900323,
+  "password": 123456
+}
+[2022-07-30 12:33:04,237][response_util.py 10][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjAzNjIsImVtYWlsIjpudWxsfQ.rxW8jKzYezAExV9Jx2X4-06Y2JBwjqyrRRtWTJkQoNo"}
+[2022-07-30 12:33:04,238][response_util.py 15][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjAzNjIsImVtYWlsIjpudWxsfQ.rxW8jKzYezAExV9Jx2X4-06Y2JBwjqyrRRtWTJkQoNo"}
+[2022-07-30 12:33:37,193][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/login/
+[2022-07-30 12:33:37,194][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 12:33:37,195][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "username": 17380900323,
+  "password": 123456
+}
+[2022-07-30 12:33:37,364][response_util.py 10][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjAzOTUsImVtYWlsIjpudWxsfQ.usyw_JCGz6B2dlbQRWSzvGON69rbNXWTiVBFBD4WPN4"}
+[2022-07-30 12:33:37,365][response_util.py 15][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjAzOTUsImVtYWlsIjpudWxsfQ.usyw_JCGz6B2dlbQRWSzvGON69rbNXWTiVBFBD4WPN4"}
+[2022-07-30 12:36:19,795][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/login/
+[2022-07-30 12:36:19,796][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 12:36:19,796][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "username": 17380900323,
+  "password": 123456
+}
+[2022-07-30 12:36:19,954][response_util.py 10][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjA1NTgsImVtYWlsIjpudWxsfQ.bNEXdc6M1SCzYp8yhkgvctfYCreNTQvnD3V-Z2sY01k"}
+[2022-07-30 12:36:19,954][response_util.py 15][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjA1NTgsImVtYWlsIjpudWxsfQ.bNEXdc6M1SCzYp8yhkgvctfYCreNTQvnD3V-Z2sY01k"}
+[2022-07-30 12:38:23,028][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/login/
+[2022-07-30 12:38:23,028][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 12:38:23,028][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "username": 17380900323,
+  "password": 123456
+}
+[2022-07-30 12:38:23,184][response_util.py 10][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjA2ODEsImVtYWlsIjpudWxsfQ.FLjoyy069G1AyMD7ao64Z7PTdh2jPMF_FESbd2xPCaQ"}
+[2022-07-30 12:38:23,184][response_util.py 15][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjA2ODEsImVtYWlsIjpudWxsfQ.FLjoyy069G1AyMD7ao64Z7PTdh2jPMF_FESbd2xPCaQ"}
+[2022-07-30 12:39:16,097][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/login/
+[2022-07-30 12:39:16,097][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 12:39:16,097][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "username": 17380900323,
+  "password": 123456
+}
+[2022-07-30 12:39:16,272][response_util.py 10][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjA3MzQsImVtYWlsIjpudWxsfQ.Q6AqHlF2aF_FplFhJawVU3BogPxHMsDk8VNeE3P_hkQ"}
+[2022-07-30 12:39:16,273][response_util.py 15][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjA3MzQsImVtYWlsIjpudWxsfQ.Q6AqHlF2aF_FplFhJawVU3BogPxHMsDk8VNeE3P_hkQ"}
+[2022-07-30 12:45:59,347][mysql_util.py 29][INFO]: 执行sql：select count(1) as banner_num from goods_banner;
+[2022-07-30 12:45:59,390][mysql_util.py 33][INFO]: sql执行结果：{'banner_num': 3}
+[2022-07-30 12:45:59,392][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/banners/
+[2022-07-30 12:45:59,392][rest_client.py 51][INFO]: 接口请求的方法>>>GET
+[2022-07-30 12:45:59,442][response_util.py 10][INFO]: 接口的返回内容>>>：[{"id": 23, "image": "http://admin.5istudy.online/media/banner/banner3.jpg", "index": 1, "add_time": "2021-11-26T13:22:00", "goods": 4}, {"id": 30, "image": "http://admin.5istudy.online/media/banner/banner2.jpg", "index": 3, "add_time": "2021-11-26T13:22:00", "goods": 4}, {"id": 1820, "image": "http://admin.5istudy.online/media/banner/banner1.jpg", "index": 3, "add_time": "2021-11-26T13:22:00", "goods": 4}]
+[2022-07-30 12:45:59,442][response_util.py 15][INFO]: 接口的返回内容>>>：[{"id": 23, "image": "http://admin.5istudy.online/media/banner/banner3.jpg", "index": 1, "add_time": "2021-11-26T13:22:00", "goods": 4}, {"id": 30, "image": "http://admin.5istudy.online/media/banner/banner2.jpg", "index": 3, "add_time": "2021-11-26T13:22:00", "goods": 4}, {"id": 1820, "image": "http://admin.5istudy.online/media/banner/banner1.jpg", "index": 3, "add_time": "2021-11-26T13:22:00", "goods": 4}]
+[2022-07-30 13:11:57,163][mysql_util.py 47][INFO]: 执行sql：delete from users_verifycode where mobile = '17380900323';
+[2022-07-30 13:11:57,193][conftest.py 20][INFO]: sql执行结果：None
+[2022-07-30 13:11:57,193][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/code/
+[2022-07-30 13:11:57,193][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:11:57,194][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 17380900323
+}
+[2022-07-30 13:11:57,250][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2022-07-30 13:11:57,250][response_util.py 15][INFO]: 接口的返回内容>>>：{"mobile": ["用户已经存在"]}
+[2022-07-30 13:12:16,788][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/login/
+[2022-07-30 13:12:16,788][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:12:16,789][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "username": 17380900323,
+  "password": 123456
+}
+[2022-07-30 13:12:16,976][response_util.py 10][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjI3MTUsImVtYWlsIjpudWxsfQ.MA3G1EPOGk1q2mv1xkDZcAQzQ7JnQGW3Ho_TQoqMXj8"}
+[2022-07-30 13:12:16,976][response_util.py 15][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjI3MTUsImVtYWlsIjpudWxsfQ.MA3G1EPOGk1q2mv1xkDZcAQzQ7JnQGW3Ho_TQoqMXj8"}
+[2022-07-30 13:12:24,056][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/login/
+[2022-07-30 13:12:24,056][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:12:24,056][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "username": 17380900323,
+  "password": 123456
+}
+[2022-07-30 13:12:24,216][response_util.py 10][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjI3MjIsImVtYWlsIjpudWxsfQ.Pd6qPTyC2-kq4oldpq4vdIvP8uUw5SYG1prN4Ha7V04"}
+[2022-07-30 13:12:24,217][response_util.py 15][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjI3MjIsImVtYWlsIjpudWxsfQ.Pd6qPTyC2-kq4oldpq4vdIvP8uUw5SYG1prN4Ha7V04"}
+[2022-07-30 13:12:53,351][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/login/
+[2022-07-30 13:12:53,352][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:12:53,352][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "username": 17380900323,
+  "password": 123456
+}
+[2022-07-30 13:12:53,518][response_util.py 10][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjI3NTIsImVtYWlsIjpudWxsfQ.of9_EW0Pj_k6GKinR3BFcRT0ANJrsYLzqb7AsnP-tkA"}
+[2022-07-30 13:12:53,518][response_util.py 15][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjI3NTIsImVtYWlsIjpudWxsfQ.of9_EW0Pj_k6GKinR3BFcRT0ANJrsYLzqb7AsnP-tkA"}
+[2022-07-30 13:12:53,524][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/shopcarts/
+[2022-07-30 13:12:53,524][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:12:53,524][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "goods": 6,
+  "nums": 1
+}
+[2022-07-30 13:12:53,524][rest_client.py 59][INFO]: 接口请求的params参数>>>
+{
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjI3NTIsImVtYWlsIjpudWxsfQ.of9_EW0Pj_k6GKinR3BFcRT0ANJrsYLzqb7AsnP-tkA"
+}
+[2022-07-30 13:12:53,572][response_util.py 10][INFO]: 接口的返回内容>>>：{"nums": 2, "goods": 6}
+[2022-07-30 13:12:53,573][response_util.py 15][INFO]: 接口的返回内容>>>：{"nums": 2, "goods": 6}
+[2022-07-30 13:21:43,976][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/login/
+[2022-07-30 13:21:43,976][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:21:43,976][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "username": 17380900323,
+  "password": 123456
+}
+[2022-07-30 13:21:44,148][response_util.py 10][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjMyODIsImVtYWlsIjpudWxsfQ.nkVd3WLEUMxUsV21EVt-1P_kuvSyFK4zhyLI-b-xVCM"}
+[2022-07-30 13:21:44,148][response_util.py 15][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjMyODIsImVtYWlsIjpudWxsfQ.nkVd3WLEUMxUsV21EVt-1P_kuvSyFK4zhyLI-b-xVCM"}
+[2022-07-30 13:21:44,153][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/shopcarts/
+[2022-07-30 13:21:44,154][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:21:44,154][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "goods": 6,
+  "nums": 1
+}
+[2022-07-30 13:21:44,154][rest_client.py 59][INFO]: 接口请求的params参数>>>
+{
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjMyODIsImVtYWlsIjpudWxsfQ.nkVd3WLEUMxUsV21EVt-1P_kuvSyFK4zhyLI-b-xVCM"
+}
+[2022-07-30 13:21:44,197][response_util.py 10][INFO]: 接口的返回内容>>>：{"nums": 3, "goods": 6}
+[2022-07-30 13:21:44,198][response_util.py 15][INFO]: 接口的返回内容>>>：{"nums": 3, "goods": 6}
+[2022-07-30 13:33:02,095][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/login/
+[2022-07-30 13:33:02,095][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:33:02,095][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "username": 17380900323,
+  "password": 123456
+}
+[2022-07-30 13:33:02,266][response_util.py 10][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjM5NjAsImVtYWlsIjpudWxsfQ.x2QiO1sh62ZM7KGUzCridZhlaA_9kQVFZqirlXPqx9A"}
+[2022-07-30 13:33:02,266][response_util.py 15][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjM5NjAsImVtYWlsIjpudWxsfQ.x2QiO1sh62ZM7KGUzCridZhlaA_9kQVFZqirlXPqx9A"}
+[2022-07-30 13:33:02,273][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/shopcarts/
+[2022-07-30 13:33:02,273][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:33:02,273][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "goods": 6,
+  "nums": 1
+}
+[2022-07-30 13:33:02,273][rest_client.py 59][INFO]: 接口请求的params参数>>>
+{
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjM5NjAsImVtYWlsIjpudWxsfQ.x2QiO1sh62ZM7KGUzCridZhlaA_9kQVFZqirlXPqx9A"
+}
+[2022-07-30 13:33:02,313][response_util.py 10][INFO]: 接口的返回内容>>>：{"nums": 4, "goods": 6}
+[2022-07-30 13:33:02,313][response_util.py 15][INFO]: 接口的返回内容>>>：{"nums": 4, "goods": 6}
+[2022-07-30 13:33:02,313][mysql_util.py 47][INFO]: 执行sql：select id from users_userprofile where mobile = '17380900323';
+[2022-07-30 13:33:02,356][conftest.py 33][INFO]: sql执行结果：None
+[2022-07-30 13:34:45,384][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/login/
+[2022-07-30 13:34:45,385][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:34:45,386][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "username": 17380900323,
+  "password": 123456
+}
+[2022-07-30 13:34:45,589][response_util.py 10][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjQwNjQsImVtYWlsIjpudWxsfQ.wRbAcLlfapUWxw99ELmZc6xEmIUWVc9dkw8ovXPkuyI"}
+[2022-07-30 13:34:45,590][response_util.py 15][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjQwNjQsImVtYWlsIjpudWxsfQ.wRbAcLlfapUWxw99ELmZc6xEmIUWVc9dkw8ovXPkuyI"}
+[2022-07-30 13:34:45,608][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/shopcarts/
+[2022-07-30 13:34:45,609][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:34:45,609][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "goods": 6,
+  "nums": 1
+}
+[2022-07-30 13:34:45,609][rest_client.py 59][INFO]: 接口请求的params参数>>>
+{
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjQwNjQsImVtYWlsIjpudWxsfQ.wRbAcLlfapUWxw99ELmZc6xEmIUWVc9dkw8ovXPkuyI"
+}
+[2022-07-30 13:34:45,665][response_util.py 10][INFO]: 接口的返回内容>>>：{"nums": 5, "goods": 6}
+[2022-07-30 13:34:45,665][response_util.py 15][INFO]: 接口的返回内容>>>：{"nums": 5, "goods": 6}
+[2022-07-30 13:36:17,720][mysql_util.py 47][INFO]: 执行sql：select id from users_userprofile where mobile = '17380900323';
+[2022-07-30 13:36:17,766][conftest.py 33][INFO]: sql执行结果：None
+[2022-07-30 13:43:48,684][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/login/
+[2022-07-30 13:43:48,684][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:43:48,685][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "username": 17380900323,
+  "password": 123456
+}
+[2022-07-30 13:43:48,875][response_util.py 10][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjQ2MDcsImVtYWlsIjpudWxsfQ.S12ncUeoQdWZfLJH_y9EunRlyDSP9-zVUpAez-c1jJI"}
+[2022-07-30 13:43:48,875][response_util.py 15][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjQ2MDcsImVtYWlsIjpudWxsfQ.S12ncUeoQdWZfLJH_y9EunRlyDSP9-zVUpAez-c1jJI"}
+[2022-07-30 13:43:48,896][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/shopcarts/
+[2022-07-30 13:43:48,896][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:43:48,896][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "goods": 6,
+  "nums": 1
+}
+[2022-07-30 13:43:48,897][rest_client.py 59][INFO]: 接口请求的params参数>>>
+{
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjQ2MDcsImVtYWlsIjpudWxsfQ.S12ncUeoQdWZfLJH_y9EunRlyDSP9-zVUpAez-c1jJI"
+}
+[2022-07-30 13:43:48,937][response_util.py 10][INFO]: 接口的返回内容>>>：{"nums": 6, "goods": 6}
+[2022-07-30 13:43:48,937][response_util.py 15][INFO]: 接口的返回内容>>>：{"nums": 6, "goods": 6}
+[2022-07-30 13:44:15,214][mysql_util.py 47][INFO]: 执行sql：select id from users_userprofile where mobile = '17380900323';
+[2022-07-30 13:44:15,269][conftest.py 33][INFO]: sql执行结果：None
+[2022-07-30 13:44:52,997][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/login/
+[2022-07-30 13:44:52,998][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:44:52,998][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "username": 17380900323,
+  "password": 123456
+}
+[2022-07-30 13:44:53,155][response_util.py 10][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjQ2NzEsImVtYWlsIjpudWxsfQ.noX0kotE9TWyEbwAfH1x51Z5CI6zFHVNoHZy-_0GgLI"}
+[2022-07-30 13:44:53,155][response_util.py 15][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjQ2NzEsImVtYWlsIjpudWxsfQ.noX0kotE9TWyEbwAfH1x51Z5CI6zFHVNoHZy-_0GgLI"}
+[2022-07-30 13:44:53,161][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/shopcarts/
+[2022-07-30 13:44:53,161][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:44:53,161][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "goods": 6,
+  "nums": 1
+}
+[2022-07-30 13:44:53,161][rest_client.py 59][INFO]: 接口请求的params参数>>>
+{
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjQ2NzEsImVtYWlsIjpudWxsfQ.noX0kotE9TWyEbwAfH1x51Z5CI6zFHVNoHZy-_0GgLI"
+}
+[2022-07-30 13:44:53,211][response_util.py 10][INFO]: 接口的返回内容>>>：{"nums": 7, "goods": 6}
+[2022-07-30 13:44:53,211][response_util.py 15][INFO]: 接口的返回内容>>>：{"nums": 7, "goods": 6}
+[2022-07-30 13:44:53,211][mysql_util.py 47][INFO]: 执行sql：select id from users_userprofile where mobile = '17380900323';
+[2022-07-30 13:44:53,256][conftest.py 33][INFO]: sql执行结果：None
+[2022-07-30 13:45:00,474][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/login/
+[2022-07-30 13:45:00,475][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:45:00,475][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "username": 17380900323,
+  "password": 123456
+}
+[2022-07-30 13:45:00,663][response_util.py 10][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjQ2NzksImVtYWlsIjpudWxsfQ.MpYrbBbOtD9FupFZH3sK7Qf6-JtkXDQI4MSinLQlVIs"}
+[2022-07-30 13:45:00,664][response_util.py 15][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjQ2NzksImVtYWlsIjpudWxsfQ.MpYrbBbOtD9FupFZH3sK7Qf6-JtkXDQI4MSinLQlVIs"}
+[2022-07-30 13:45:00,683][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/shopcarts/
+[2022-07-30 13:45:00,683][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:45:00,683][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "goods": 6,
+  "nums": 1
+}
+[2022-07-30 13:45:00,684][rest_client.py 59][INFO]: 接口请求的params参数>>>
+{
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjQ2NzksImVtYWlsIjpudWxsfQ.MpYrbBbOtD9FupFZH3sK7Qf6-JtkXDQI4MSinLQlVIs"
+}
+[2022-07-30 13:45:00,728][response_util.py 10][INFO]: 接口的返回内容>>>：{"nums": 8, "goods": 6}
+[2022-07-30 13:45:00,728][response_util.py 15][INFO]: 接口的返回内容>>>：{"nums": 8, "goods": 6}
+[2022-07-30 13:45:36,477][mysql_util.py 47][INFO]: 执行sql：select id from users_userprofile where mobile = '17380900323';
+[2022-07-30 13:45:36,526][conftest.py 33][INFO]: sql执行结果：None
+[2022-07-30 13:47:35,387][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/login/
+[2022-07-30 13:47:35,388][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:47:35,388][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "username": 17380900323,
+  "password": 123456
+}
+[2022-07-30 13:47:35,597][response_util.py 10][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjQ4MzQsImVtYWlsIjpudWxsfQ.urQ2vwjBWLyPeZ6pXRxq_uPvUDGEu0qGE63pKRMDykc"}
+[2022-07-30 13:47:35,597][response_util.py 15][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjQ4MzQsImVtYWlsIjpudWxsfQ.urQ2vwjBWLyPeZ6pXRxq_uPvUDGEu0qGE63pKRMDykc"}
+[2022-07-30 13:47:35,615][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/shopcarts/
+[2022-07-30 13:47:35,615][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:47:35,616][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "goods": 6,
+  "nums": 1
+}
+[2022-07-30 13:47:35,616][rest_client.py 59][INFO]: 接口请求的params参数>>>
+{
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjQ4MzQsImVtYWlsIjpudWxsfQ.urQ2vwjBWLyPeZ6pXRxq_uPvUDGEu0qGE63pKRMDykc"
+}
+[2022-07-30 13:47:35,657][response_util.py 10][INFO]: 接口的返回内容>>>：{"nums": 9, "goods": 6}
+[2022-07-30 13:47:35,657][response_util.py 15][INFO]: 接口的返回内容>>>：{"nums": 9, "goods": 6}
+[2022-07-30 13:48:25,278][mysql_util.py 47][INFO]: 执行sql：select id from users_userprofile where mobile = '17380900323';
+[2022-07-30 13:52:43,878][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/login/
+[2022-07-30 13:52:43,879][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:52:43,879][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "username": 17380900323,
+  "password": 123456
+}
+[2022-07-30 13:52:44,073][response_util.py 10][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjUxNDIsImVtYWlsIjpudWxsfQ.sedyLYlnfUbawJKKHR6KWcJ3nzPSHRPw_3_DUQEbja4"}
+[2022-07-30 13:52:44,074][response_util.py 15][INFO]: 接口的返回内容>>>：{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjUxNDIsImVtYWlsIjpudWxsfQ.sedyLYlnfUbawJKKHR6KWcJ3nzPSHRPw_3_DUQEbja4"}
+[2022-07-30 13:52:44,079][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/shopcarts/
+[2022-07-30 13:52:44,079][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-30 13:52:44,080][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "goods": 6,
+  "nums": 1
+}
+[2022-07-30 13:52:44,080][rest_client.py 59][INFO]: 接口请求的params参数>>>
+{
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNzEsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk3NjUxNDIsImVtYWlsIjpudWxsfQ.sedyLYlnfUbawJKKHR6KWcJ3nzPSHRPw_3_DUQEbja4"
+}
+[2022-07-30 13:52:44,163][response_util.py 10][INFO]: 接口的返回内容>>>：{"nums": 10, "goods": 6}
+[2022-07-30 13:52:44,163][response_util.py 15][INFO]: 接口的返回内容>>>：{"nums": 10, "goods": 6}
+[2022-07-30 13:52:44,164][mysql_util.py 29][INFO]: 执行sql：select id from users_userprofile where mobile = '17380900323';
+[2022-07-30 13:52:44,204][mysql_util.py 33][INFO]: sql执行结果：{'id': 159371}
+[2022-07-30 13:52:44,204][mysql_util.py 29][INFO]: 执行sql：select nums from trade_shoppingcart where user_id = 159371 and goods_id = 6
+[2022-07-30 13:52:44,225][mysql_util.py 33][INFO]: sql执行结果：{'nums': 10}

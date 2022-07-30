@@ -1,0 +1,28 @@
+[2022-07-29 13:22:06,859][mysql_util.py 47][INFO]: 执行sql：delete from users_verifycode where mobile = '17380900323';
+[2022-07-29 13:22:06,911][conftest.py 20][INFO]: sql执行结果：None
+[2022-07-29 13:22:06,911][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/code/
+[2022-07-29 13:22:06,911][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-29 13:22:06,911][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 17380900323
+}
+[2022-07-29 13:22:07,052][response_util.py 10][INFO]: 接口的返回内容>>>：{"mobile": "17380900323"}
+[2022-07-29 13:22:07,052][response_util.py 15][INFO]: 接口的返回内容>>>：{"mobile": "17380900323"}
+[2022-07-29 13:22:07,052][mysql_util.py 29][INFO]: 执行sql：select code from users_verifycode where mobile = '17380900323' order by id desc limit 1
+[2022-07-29 13:22:07,161][mysql_util.py 33][INFO]: sql执行结果：{'code': '6806'}
+[2022-07-29 13:22:07,161][conftest.py 8][INFO]: sql执行结果：{'code': '6806'}
+[2022-07-29 13:22:07,162][mysql_util.py 29][INFO]: 执行sql：select code from users_verifycode where mobile = '17380900323' order by id desc limit 1
+[2022-07-29 13:22:07,224][mysql_util.py 33][INFO]: sql执行结果：{'code': '6806'}
+[2022-07-29 13:22:07,224][conftest.py 8][INFO]: sql执行结果：{'code': '6806'}
+[2022-07-29 13:22:07,224][rest_client.py 50][INFO]: 接口请求的地址>>>http://admin.5istudy.online/users/
+[2022-07-29 13:22:07,224][rest_client.py 51][INFO]: 接口请求的方法>>>POST
+[2022-07-29 13:22:07,224][rest_client.py 55][INFO]: 接口请求的json参数>>>
+{
+  "code": "6806",
+  "password": "123456",
+  "username": "17380900323"
+}
+[2022-07-29 13:22:07,369][response_util.py 10][INFO]: 接口的返回内容>>>：{"username": "17380900323", "mobile": "17380900323", "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNjYsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk2NzY5MDcsImVtYWlsIjpudWxsfQ.yepRGjELnY4-K5UZ_-MWv6IC0_UopnJr8KVvX51NViY", "name": "17380900323"}
+[2022-07-29 13:22:07,369][response_util.py 15][INFO]: 接口的返回内容>>>：{"username": "17380900323", "mobile": "17380900323", "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNTkzNjYsInVzZXJuYW1lIjoiMTczODA5MDAzMjMiLCJleHAiOjE2NTk2NzY5MDcsImVtYWlsIjpudWxsfQ.yepRGjELnY4-K5UZ_-MWv6IC0_UopnJr8KVvX51NViY", "name": "17380900323"}
+[2022-07-29 13:22:07,369][mysql_util.py 47][INFO]: 执行sql：delete from users_userprofile where mobile = '17380900323';
+[2022-07-29 13:22:07,463][conftest.py 14][INFO]: sql执行结果：None

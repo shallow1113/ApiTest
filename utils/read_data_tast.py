@@ -1,0 +1,10 @@
+import yaml
+f = open("../data/data.yaml", encoding='utf-8')
+data = yaml.safe_load(f)
+print(data['hero1'])
+print(data['hero2'])
+print(data['heros_name'])
+print(data['heros'])  
+print(data['heros_name_list'])
+print(data['heros_name_word'])
+print(data['mobile_belong_get'])

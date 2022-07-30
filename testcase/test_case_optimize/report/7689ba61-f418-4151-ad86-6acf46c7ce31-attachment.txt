@@ -1,0 +1,11 @@
+[2022-07-28 14:50:50,594][conftest.py 28][INFO]: 开始执行测试用例
+[2022-07-28 14:50:50,602][rest_client.py 50][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-28 14:50:50,602][rest_client.py 51][INFO]: 接口请求的方法>>>GET
+[2022-07-28 14:50:50,603][rest_client.py 57][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-28 14:50:50,843][response_util.py 11][INFO]: 接口的返回内容>>>：{"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-07-28 14:50:50,844][response_util.py 11][INFO]: 接口的返回内容>>>：{"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-07-28 14:50:50,846][conftest.py 30][INFO]: 测试用例执行完毕
